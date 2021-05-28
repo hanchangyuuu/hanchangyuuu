@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Changyu Han
 - 👀 I’m interested in Spatial Analytics, Urban Mobility, Human Computer Interaction, Computing Society
-- 🌱 I’m currently learning Complex network analysis
+- 🌱 I’m currently learning clustering methods
 - 💞️ I’m looking to collaborate on Urban Big Data Research
 - 📫 Reach me at hanchangyuuu@outlook.com 
 
