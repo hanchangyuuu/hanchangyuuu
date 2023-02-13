@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Changyu Han
+- 👋 Hi, 
 - 👀 I’m interested in Spatial Mobility, Urban infomatics, Human Computer Interaction
 - 📫 Reach me at hanchangyuuu@outlook.com 
 
